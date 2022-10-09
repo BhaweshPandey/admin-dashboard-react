@@ -1,0 +1,148 @@
+.Tickets-top{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.mid-box{
+    padding: 10px;
+    border: solid rgb(148, 147, 147);
+    margin: 10px;
+    height: 88vh;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.tr-heading{
+    font-size: 20px;
+}
+
+.header ul{
+    display: flex;
+    flex-direction: row;
+}
+
+table{
+    width: 100%;
+}
+
+.ticket-table{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 92px;
+    border-top: 1px solid #9FA2B4;
+    /* margin: 10px; */
+}
+
+
+.query-container{
+    display: flex;
+    margin-left:30px;
+    /* height: 20px; */
+    width:35%;
+}
+
+.query-container img{
+    height: 34px;
+    width: 44px;
+    border-radius: 100%;
+}
+.query-container .user-query{
+margin-left: 24px;
+}
+
+.query-heading{
+    font-size: 15px;
+}
+
+.customer-name{
+    font-size: 15px;
+}
+
+.ticket-date-title{
+    font-size: 15px;
+}
+
+.button-class{
+    font-size: 15px;
+    color: white;
+    /* background-color: red; */
+    padding: 5px;
+    border-radius: 8px;
+    width: 70px;
+}
+
+.button-class-L{
+    font-size: 15px;
+    color: white;
+    /* background-color: yellow; */
+    padding: 5px;
+    border-radius: 8px;
+    width: 70px;
+}
+.button-class-N{
+    font-size: 15px;
+    color: white;
+    background-color: green;
+    padding: 5px;
+    border-radius: 8px;
+    width: 80px;
+}
+
+.m-n{
+    font-size: 20px;
+    margin-right: 42px;
+}
+
+.query-desc{
+    color: #C5C7CD;
+    font-size: 13px;
+}
+
+.query-date{
+    color: #C5C7CD ;
+    font-size: 13px;
+}
+
+.ticket-date-time{
+    color: #C5C7CD ;
+    font-size: 13px;
+}
+
+.ticket-box{
+    margin:30px;
+    background-color: #FFFFFF;
+    width: 75%;
+}
+
+.header-class{
+    margin: 0px 30px;
+    justify-content: space-between;
+    display: flex;
+}
+
+
+.filter{
+    width: 130px;
+    display: flex;
+    padding: 0px 30px;
+    justify-content: space-between;
+}
+
+
+.table-heading{
+    margin: 0px 42px 0px 30px;
+    justify-content: space-between;
+    display: flex;
+    color: #9FA2B4;
+}
+
+.query-header{
+    width:35%;
+}

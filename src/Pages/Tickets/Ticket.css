@@ -1,0 +1,11 @@
+.Ticket-page{
+    width: 100%;
+    background-color: #E5E5E5;
+    /* height: 100vh; */
+    display: flex;
+}
+
+.mid{
+    width: 80%;
+    /* height: 100vh; */
+}
